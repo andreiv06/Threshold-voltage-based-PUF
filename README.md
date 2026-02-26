@@ -1,4 +1,10 @@
 # Threshold-voltage-based-PUF
 <div align="center">
-  <img src="fisiere_readme/mc_page-0001.jpg" alt="" width="800">
+  <img src="Fisiere_readme/amprentaHW_page-0001.jpg" alt="" width="800">
+</div>
+<div align="center">
+  <img src="Fisiere_readme/amprentaHW_page-0002.jpg" alt="" width="800">
+</div>
+<div align="center">
+  <img src="Fisiere_readme/amprentaHW_page-0003.jpg" alt="" width="800">
 </div>
